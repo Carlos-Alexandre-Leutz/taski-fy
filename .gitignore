@@ -1,0 +1,28 @@
+# Laravel padrão
+/vendor
+/node_modules
+/public
+/public/storage
+/storage
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# Docker
+docker/php/Dockerfile
+docker-compose.override.yml
+*.pid
+*.sock
+
+# IDEs e editores
+.idea
+.vscode
+*.sublime-workspace
+*.sublime-project
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
